@@ -1,8 +1,20 @@
 # NachoJuanDev
 
-<p align="center" width="300">
-   <img align="center" width="250" src="assets/profile.webp" />
-</p>
+<div style="display: flex;">
+   <div style="flex: 40%; padding: 0 10px;">
+      <p align="center">
+         <img align="center" width="150" src="assets/profile.webp" />
+      </p>
+   </div>
+   <div style="flex: 60%; padding: 0 10px;">
+      <h2> Juan Salas</h2>
+      <p style="display: flex; flex-direction: column;">
+         <span>Full Stack developer 👨🏽‍💻</span>
+         <span>Santiago, Chile 🇨🇱</span>
+         <span>Technology enthusiast 🤓💻</span>
+      </p>
+   </div>
+</div>
 
 ## Languajes
 
@@ -49,7 +61,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -69,5 +80,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
